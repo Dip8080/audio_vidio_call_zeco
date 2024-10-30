@@ -33,7 +33,7 @@ migrate_working_dir/
 pubspec.lock
 
 # Firebase related
-.firebase/
+
 
 # Localization
 l10n_error.json
